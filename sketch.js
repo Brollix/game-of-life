@@ -34,8 +34,6 @@ function draw() {
 			let x = i * resolution
 			let y = j * resolution
 			if (grid[i][j] == 1) {
-				fill(255)
-				stroke(0)
 				rect(x, y, resolution, resolution)
 			}
 		}
