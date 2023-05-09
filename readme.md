@@ -1,3 +1,3 @@
-#Watch the Game of Life play:
+Watch the Game of Life play:
 
 https://brollix.github.io/game-of-life/
