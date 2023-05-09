@@ -12,7 +12,7 @@ let rows
 let resolution = 4
 
 function setup() {
-	createCanvas(800, 600)
+	createCanvas(1500, 720)
 
 	cols = width / resolution
 	rows = height / resolution
